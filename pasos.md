@@ -9,3 +9,9 @@
 
 
 **Podemos usar git status para obtener una informacion detallada de nuestro repo**
+
+**Si estoy actualizando:**
+    *git add .
+    *git commit -m "comentario x"
+    *git push
+    
