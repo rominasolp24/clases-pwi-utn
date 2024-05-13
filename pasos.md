@@ -14,4 +14,9 @@
     *git add .
     *git commit -m "comentario x"
     *git push
-    
+
+**Si me equivoque al poner el git remote usamos el comando:**
+    *git remote set-url origin <URL_CORRECTA>
+
+**Para ver que origen remoto tengo:**
+    git remote -v
