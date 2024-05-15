@@ -1,5 +1,16 @@
 
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    box-sizing: border-box;
+}
+
+
 .caja{
     background-color: black;
     height: 200px;
+    margin-top: 30px;
+    color: white;
+    padding-left: 50%;
+    border: solid 20px #c1121f;
+    margin-top: 55px;
 }
