@@ -1,0 +1,17 @@
+
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #ccd5ae;
+}
+
+h1{
+    color: #bc6c25;
+    font-size: 50px;
+    letter-spacing: -1px;
+    word-spacing: 0%;
+    text-decoration: underline #283618 wavy;
+    text-shadow: 11px -5px 11px #606c38;
+    /* text-shadow; eje x: unidad de tamaño | eje y: unidad de tamaño | valor difuminado: UT |*/
+    /* width: 200px */
+    text-align: center;
+}
