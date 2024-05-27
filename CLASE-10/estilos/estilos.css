@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.padre{
+    width: 100vw;
+    height: 100vh;
+    background-color: #8d99ae;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 200px;
+    position: relative;
+}
+
+.hijo{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    border: 1px solid red;
+}
+
+.hijo:nth-child(1){
+    background-color: #023047;
+}
+
+.hijo:nth-child(2){
+    background-color: #fb8500;
+    position: absolute;
+    left: 200px;
+    top: 10px;
+    z-index: 1;
+}
+
+.hijo:nth-child(3){
+    background-color: #ef233c;
+    z-index: 2;
+}
