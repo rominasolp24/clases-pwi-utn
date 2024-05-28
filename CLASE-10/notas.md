@@ -6,3 +6,9 @@ Se mueve respecto a su espacio original
 Se mueve desde el 0 del body
 Se usa para un movimiento exacto sobre un elemento, para resolver este problema y que aparezca dentro del o
 del padre tiene que ser de un valor no estatico. ej: (position: relative;) en el padre.
+
+    position fixed:
+Se queda pegado simepre, se puede posicionar.
+Permite tener un elemntento fijo en la pag.
+
+    position 
