@@ -42,3 +42,9 @@ else{
     alert("ERROR: dato no valido")
 }
 
+# WHILE: es para poder repetir una accion mientras una condicion se cumpla
+
+while(nombre === "pepe"){
+    nombre = prompt("ingresa devuelta un nombre")
+}
+alert("ese nombre no lo conozco")
